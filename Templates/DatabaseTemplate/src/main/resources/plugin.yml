@@ -1,0 +1,5 @@
+name: DatabaseTemplate
+version: '${project.version}'
+main: com.torben.database.Main
+api-version: 1.18
+authors: [ TorbenK ]

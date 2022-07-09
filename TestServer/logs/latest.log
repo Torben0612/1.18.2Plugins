@@ -1,0 +1,202 @@
+[11:22:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:22:35] [Worker-Main-16/INFO]: Loaded 7 recipes
+[11:22:37] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[11:22:37] [Server thread/INFO]: Loading properties
+[11:22:37] [Server thread/INFO]: This server is running CraftBukkit version 3498-Spigot-b081915-10ba1be (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[11:22:37] [Server thread/INFO]: Debug logging is disabled
+[11:22:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:22:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:22:37] [Server thread/INFO]: Default game type: SURVIVAL
+[11:22:37] [Server thread/INFO]: Generating keypair
+[11:22:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:22:38] [Server thread/INFO]: Using epoll channel type
+[11:22:39] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.6.1-SNAPSHOT
+[11:22:39] [Server thread/INFO]: [Music] Loading Music v1.0-SNAPSHOT
+[11:22:39] [Server thread/INFO]: Preparing level "world"
+[11:22:39] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:22:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:22:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:22:39] [Server thread/INFO]: Mob Spawn Range: 6
+[11:22:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:22:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:22:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:22:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:22:39] [Server thread/INFO]: Max TNT Explosions: 100
+[11:22:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:22:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:22:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:22:39] [Server thread/INFO]: View Distance: 10
+[11:22:39] [Server thread/INFO]: Simulation Distance: 10
+[11:22:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:22:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:22:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:22:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:22:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:22:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:22:40] [Server thread/INFO]: Mob Spawn Range: 6
+[11:22:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:22:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:22:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:22:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:22:40] [Server thread/INFO]: Max TNT Explosions: 100
+[11:22:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:22:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:22:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:22:40] [Server thread/INFO]: View Distance: 10
+[11:22:40] [Server thread/INFO]: Simulation Distance: 10
+[11:22:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:22:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:22:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:22:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:22:40] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:22:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:22:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:22:40] [Server thread/INFO]: Mob Spawn Range: 6
+[11:22:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[11:22:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:22:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:22:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:22:40] [Server thread/INFO]: Max TNT Explosions: 100
+[11:22:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:22:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:22:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:22:40] [Server thread/INFO]: View Distance: 10
+[11:22:40] [Server thread/INFO]: Simulation Distance: 10
+[11:22:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:22:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:22:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:22:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:22:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:22:42] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[11:22:42] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[11:22:42] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[11:22:42] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[11:22:42] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[11:22:43] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[11:22:43] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[11:22:44] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[11:22:44] [Worker-Main-18/INFO]: Preparing spawn area: 4%
+[11:22:45] [Worker-Main-12/INFO]: Preparing spawn area: 21%
+[11:22:45] [Worker-Main-13/INFO]: Preparing spawn area: 64%
+[11:22:46] [Worker-Main-12/INFO]: Preparing spawn area: 79%
+[11:22:46] [Server thread/INFO]: Time elapsed: 5995 ms
+[11:22:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:22:47] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:22:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:22:47] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[11:22:48] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[11:22:48] [Worker-Main-19/INFO]: Preparing spawn area: 1%
+[11:22:49] [Worker-Main-17/INFO]: Preparing spawn area: 23%
+[11:22:49] [Worker-Main-20/INFO]: Preparing spawn area: 62%
+[11:22:49] [Server thread/INFO]: Time elapsed: 3269 ms
+[11:22:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:22:50] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[11:22:50] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[11:22:50] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[11:22:51] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[11:22:51] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[11:22:52] [Server thread/INFO]: Time elapsed: 2247 ms
+[11:22:52] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.1-SNAPSHOT
+[11:22:52] [Server thread/INFO]: [Music] Enabling Music v1.0-SNAPSHOT
+[11:22:52] [Server thread/WARN]: [Music] Could not save AllStar.nbs to plugins/Music/AllStar.nbs because AllStar.nbs already exists.
+[11:22:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:22:52] [Server thread/INFO]: Done (13.246s)! For help, type "help"
+[11:22:57] [Server thread/INFO]: Made TornadoK a server operator
+[11:23:00] [User Authenticator #1/INFO]: UUID of player TornadoK is f0240b8a-1336-4e5b-beed-ebb99842534e
+[11:23:00] [Server thread/INFO]: TornadoK[/127.0.0.1:60770] logged in with entity id 227 at ([world]-261.5, 66.0, 38.5)
+[11:23:02] [Craft Scheduler Thread - 0/INFO]: [NoteBlockAPI] New update available!
+[11:23:05] [Server thread/INFO]: TornadoK issued server command: /playsong
+[11:23:05] [Server thread/INFO]: [0;31;1mSong is corrupted: AllStar.nbs[m
+[11:23:05] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'playsong' in plugin Music v1.0-SNAPSHOT
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:826) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1957) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1796) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1777) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:46) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1190) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.util.thread.IAsyncTaskHandler.y(SourceFile:131) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.be(MinecraftServer.java:1169) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1162) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:140) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1146) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1051) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3498-Spigot-b081915-10ba1be]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.IllegalArgumentException: Cannot add null to playlist
+	at com.xxmicloxx.NoteBlockAPI.model.Playlist.checkNull(Playlist.java:50) ~[?:?]
+	at com.xxmicloxx.NoteBlockAPI.model.Playlist.<init>(Playlist.java:15) ~[?:?]
+	at com.xxmicloxx.NoteBlockAPI.songplayer.SongPlayer.<init>(SongPlayer.java:59) ~[?:?]
+	at com.xxmicloxx.NoteBlockAPI.songplayer.RadioSongPlayer.<init>(RadioSongPlayer.java:24) ~[?:?]
+	at com.torben.music.PlaySongCommand.onCommand(PlaySongCommand.java:26) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	... 21 more
+[11:23:38] [Server thread/INFO]: TornadoK lost connection: Disconnected
+[11:23:38] [Server thread/INFO]: TornadoK left the game
+[11:24:13] [Server thread/INFO]: Stopping the server
+[11:24:14] [Server thread/INFO]: Stopping server
+[11:24:14] [Server thread/INFO]: [Music] Disabling Music v1.0-SNAPSHOT
+[11:24:14] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.1-SNAPSHOT
+[11:24:14] [Server thread/INFO]: Saving players
+[11:24:14] [Server thread/INFO]: Saving worlds
+[11:24:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

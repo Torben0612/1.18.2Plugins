@@ -1,0 +1,8 @@
+name: Music
+version: '${project.version}'
+main: com.torben.music.Main
+api-version: 1.18
+depend: [NoteBlockAPI]
+commands:
+  playsong:
+  stopsong:
